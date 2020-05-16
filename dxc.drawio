@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-16T21:58:50.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="sLPy3gR70uPu7LgzPcPj" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-16T22:00:09.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="QVcdxWR9ZxqdsRsB-P6E" version="13.1.2" type="github">
   <diagram id="KVUUawxUHvRBmhBFpEuj" name="Page-1">
     <mxGraphModel dx="981" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,14 +34,14 @@
         <mxCell id="SHOYl6ASWQ_pQlU27N88-50" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 8px&quot;&gt;https://www.linkedin.com/in/laurent-gil/&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;fontColor=#FFED00;" vertex="1" parent="SHOYl6ASWQ_pQlU27N88-53">
           <mxGeometry x="25.840000000000003" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SHOYl6ASWQ_pQlU27N88-9" value="Untitled Layer" style="locked=1;" parent="0" />
+        <mxCell id="SHOYl6ASWQ_pQlU27N88-9" value="Untitled Layer" style="" parent="0" />
         <mxCell id="SHOYl6ASWQ_pQlU27N88-16" value="" style="endArrow=none;html=1;strokeColor=none;" edge="1" parent="SHOYl6ASWQ_pQlU27N88-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="312.32043222003927" y="464" as="sourcePoint" />
             <mxPoint x="200" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SHOYl6ASWQ_pQlU27N88-12" value="DevOps" style="locked=1;" parent="0" />
+        <mxCell id="SHOYl6ASWQ_pQlU27N88-12" value="DevOps" style="" parent="0" />
         <mxCell id="SHOYl6ASWQ_pQlU27N88-34" value="DevOps internal trainings&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;- &lt;a href=&quot;https://dxc.workplace.com/100022938067041/videos/696839277757335/&quot;&gt;Jenkins onboarding&lt;/a&gt;&lt;br&gt;- Active on DXC Workplace DevOps related Channel&lt;br&gt;- Create a module to the DevOps dojo&lt;br&gt;&lt;/font&gt;" style="text;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=20;labelPosition=center;verticalLabelPosition=middle;strokeColor=#000000;fillColor=#666666;fontColor=#FFED00;html=1;" vertex="1" parent="SHOYl6ASWQ_pQlU27N88-12">
           <mxGeometry y="573" width="420" height="160" as="geometry" />
         </mxCell>
@@ -62,6 +62,12 @@
         </mxCell>
         <mxCell id="SHOYl6ASWQ_pQlU27N88-40" value="&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=20;labelPosition=center;verticalLabelPosition=middle;strokeColor=#000000;fillColor=#666666;fontColor=#FFED00;html=1;" vertex="1" parent="SHOYl6ASWQ_pQlU27N88-12">
           <mxGeometry x="420" y="778" width="410" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SHOYl6ASWQ_pQlU27N88-54" value="Hobbies" style="text;html=1;strokeColor=#000000;fillColor=#ffed00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="SHOYl6ASWQ_pQlU27N88-12">
+          <mxGeometry y="938" width="830" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SHOYl6ASWQ_pQlU27N88-55" value="&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=20;labelPosition=center;verticalLabelPosition=middle;strokeColor=#000000;fillColor=#666666;fontColor=#FFED00;html=1;" vertex="1" parent="SHOYl6ASWQ_pQlU27N88-12">
+          <mxGeometry y="983" width="830" height="187" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
