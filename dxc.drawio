@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-16T21:02:20.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="0SlUei5r1ODwP-jBCdp0" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-16T21:10:20.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Ld-yUUJoFJDfLjdd-m_6" version="13.1.2" type="github">
   <diagram id="KVUUawxUHvRBmhBFpEuj" name="Page-1">
     <mxGraphModel dx="2012" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SHOYl6ASWQ_pQlU27N88-12" value="DevOps" style="" parent="0" />
+        <mxCell id="SHOYl6ASWQ_pQlU27N88-34" value="DevOps :&#xa;&#xa;" style="text;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=20;labelPosition=center;verticalLabelPosition=middle;strokeColor=#000000;" vertex="1" parent="SHOYl6ASWQ_pQlU27N88-12">
+          <mxGeometry y="573" width="420" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SHOYl6ASWQ_pQlU27N88-35" value="Kubernetes :&#xa;" style="text;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=20;labelPosition=center;verticalLabelPosition=middle;strokeColor=#000000;" vertex="1" parent="SHOYl6ASWQ_pQlU27N88-12">
+          <mxGeometry x="420" y="573" width="410" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="SHOYl6ASWQ_pQlU27N88-27" value="Coaching" style="text;html=1;strokeColor=#000000;fillColor=#ffed00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="SHOYl6ASWQ_pQlU27N88-12">
           <mxGeometry y="533.3199999999999" width="830" height="45" as="geometry" />
         </mxCell>
